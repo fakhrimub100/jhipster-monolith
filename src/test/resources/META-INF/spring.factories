@@ -1,0 +1,3 @@
+org.springframework.test.context.ContextCustomizerFactory = com.monolith.app.\
+    config.TestContainersSpringContextCustomizerFactory,com.monolith.app.config.\
+    KafkaTestContainersSpringContextCustomizerFactory
